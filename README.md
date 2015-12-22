@@ -1,6 +1,6 @@
-Openshift Ruby plugin for External HAProxy
+Openshift 2.0 Ruby plugin for External HAProxy
 
-Requires HAProxy to be configured in 4 seperate conf files
+Requires HAProxy to be configured in 4 separate conf files
 
 /etc/haproxy/haproxy.cfg
 /etc/haproxy/conf/admin.conf
