@@ -2,10 +2,10 @@
 
 Requires HAProxy to be configured in 4 separate conf files
 
-/etc/haproxy/haproxy.cfg
-/etc/haproxy/conf/admin.conf
-/etc/haproxy/conf/backend_http.conf
-/etc/haproxy/conf/frontend_http.conf
+* /etc/haproxy/haproxy.cfg
+* /etc/haproxy/conf/admin.conf
+* /etc/haproxy/conf/backend_http.conf
+* /etc/haproxy/conf/frontend_http.conf
 
 controller requires "gem install daemons"
 
