@@ -14,8 +14,8 @@
 
 3. Inside /etc/openshift/broker.conf on broker node set:
 
-  ALLOW_HA_APPLICATIONS="true"
+ ALLOW_HA_APPLICATIONS="true"
 
-Also allow user to create HA applications
+ Also allow user to create HA applications
 
-oo-admin-ctl-user -l $user --allowha true
+ oo-admin-ctl-user -l $user --allowha true
